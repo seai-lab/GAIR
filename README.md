@@ -1,5 +1,7 @@
 # Official Implementation of "GAIR: Location-Aware Self-Supervised Contrastive Pre-Training with Geo-Aligned Implicit Representations"
 
+(Ths is a copy of https://github.com/zpl99/GAIR)
+
 GAIR is a location-aware self-supervised pre-training framework for learning geo-aligned representations from remote sensing imagery, street-view imagery, and geographic coordinates.
 
 This repository currently releases the **inference code** for GAIR. This repo includes
